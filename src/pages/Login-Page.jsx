@@ -5,7 +5,7 @@ const LoginPage = () => {
     let navigate = useNavigate()
 
     let handleLogin = () =>{
-        navigate("/dashboard")
+        navigate("/product")
     }
     return (
         <>
